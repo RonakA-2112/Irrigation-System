@@ -57,6 +57,6 @@ This is an automated, internet-connected plant watering system built with an ESP
 
 ## **🚀 Planned Improvements**
 
-* Re-integrate a DHT11/DHT22 sensor to track local greenhouse temperature and humidity.  
+* Integrate a DHT11/DHT22 sensor to track local greenhouse temperature and humidity.  
 * Implement Deep Sleep functionality to extend battery life.  
 * Switch the ESP32 power source to a solar charging circuit.
